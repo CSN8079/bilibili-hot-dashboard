@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 运行时队列与已生成的数据（不纳入版本库）
+pending_updates.jsonl
+bilibili_hot_videos.xlsx
+dashboard_data.json
+bilibili_hot_dashboard.html
+bilibili_hot_dashboard.url
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
