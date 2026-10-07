@@ -126,3 +126,7 @@ python .\bilibili_hot_excel.py --no-dashboard
 ```
 
 公开排行榜通常不需要 Cookie。如确需设置，可在 `config.ini` 的 `[optional_auth]` 中配置，或设置环境变量 `BILIBILI_COOKIE`。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE) 授权。
